@@ -1,11 +1,10 @@
-  
 package solid;
 
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class MyServiceTest {
+public class MyServiceTest {
 
     @Test
     void generateUUID() {
